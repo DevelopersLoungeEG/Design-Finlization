@@ -493,7 +493,7 @@ padding: 5px;
     padding-top: 50px;
     z-index: 15
 }
-.carousel {padding-top: 95px}
+.carousel {padding-top: 80px}
 @media (max-width: 951px) {
     .carousel {display: none !important}
 }
@@ -629,6 +629,7 @@ padding: 5px;
   
   .landing p {
     font-size: 40px;
+    color: white
   }
   
   .countdown {
